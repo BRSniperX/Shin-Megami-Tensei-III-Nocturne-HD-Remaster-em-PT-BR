@@ -1,7 +1,5 @@
-# Shin Megami Tensei III Nocturne HD Remaster — Tradução PT-BR v1.0
-
 <img width="1400" height="396" alt="SMT3_HD_PTBR_Nexus_1400x396" src="https://github.com/user-attachments/assets/e58c7982-6836-4716-886d-69bce316e1e2" />
-
+# Shin Megami Tensei III Nocturne HD Remaster — Tradução PT-BR v1.1
 
 Tradução para português do Brasil de **Shin Megami Tensei III Nocturne HD Remaster**
 (PC / Steam).
@@ -12,6 +10,20 @@ letreiros de área, tela de título, aviso de ficção — e o **vídeo de abert
 > ⚠️ **O jogo precisa estar em ESPANHOL.** Esta tradução reescreve os arquivos do
 > idioma espanhol — ela não adiciona um idioma novo. Com o jogo em outro idioma, a
 > tradução simplesmente não aparece.
+
+---
+
+## Novidades da v1.1
+
+- **Nenhuma arte sai mais cortada**: todas as imagens com texto — inclusive os
+  letreiros de área, como o do Parque de Yoyogi — agora cabem na largura do original
+  espanhol (o jogo recorta a imagem com uma máscara do tamanho do texto espanhol).
+- 本院 do hospital agora é sempre **«Prédio Principal»** nos nomes de local.
+- Explicação dos **andares do elevador** (veja «O que ficou de fora»).
+
+**Já tem a v1.0?** Só dois arquivos mudaram:
+`smt3hd_Data\StreamingAssets\PC\common_es` e `smt3hd_Data\StreamingAssets\PC\ui_tex_es`.
+Copiar o pacote inteiro por cima também funciona.
 
 ---
 
@@ -95,6 +107,10 @@ Steam.
 - **O `ã` minúsculo no teclado da tela de nome** — erro do jogo original, presente
   também em espanhol e inglês. Use o `Ã` maiúsculo; nos diálogos o `ã` aparece
   normalmente.
+- **Andares do elevador em sigla espanhola** (`A`, `P2`, `P1`, `S1`) — o próprio código
+  do jogo monta esses nomes, e não dá para trocá-los sem modificar o executável.
+  **A** = *Azotea* (terraço), **P2** = 2º andar, **P1** = 1º andar (térreo),
+  **S1** = subsolo 1.
 - Alguns textos de menu em imagem ficaram levemente **condensados** para caber no
   espaço do original.
 
