@@ -1,5 +1,5 @@
 <img width="1400" height="396" alt="SMT3_HD_PTBR_Nexus_1400x396" src="https://github.com/user-attachments/assets/e58c7982-6836-4716-886d-69bce316e1e2" />
-# Shin Megami Tensei III Nocturne HD Remaster — Tradução PT-BR v1.1
+# Shin Megami Tensei III Nocturne HD Remaster — Tradução PT-BR v1.2
 
 Tradução para português do Brasil de **Shin Megami Tensei III Nocturne HD Remaster**
 (PC / Steam).
@@ -13,17 +13,24 @@ letreiros de área, tela de título, aviso de ficção — e o **vídeo de abert
 
 ---
 
-## Novidades da v1.1
+## Novidades da v1.2
+
+- **Descrições na batalha sem palavras grudadas**: na barra de ajuda da batalha o jogo
+  junta as linhas da descrição numa só, e algumas palavras saíam coladas
+  («físicoe», «mágicode»). O espanhol deixa um espaço no fim de cada linha dessas
+  descrições; agora o português também. Corrigido nas 568 descrições de habilidades e
+  itens.
+
+**Já tem a v1.1?** Só um arquivo mudou: `smt3hd_Data\StreamingAssets\PC\common_es`.
+Vindo da v1.0, copie o pacote inteiro por cima.
+
+### O que veio na v1.1
 
 - **Nenhuma arte sai mais cortada**: todas as imagens com texto — inclusive os
   letreiros de área, como o do Parque de Yoyogi — agora cabem na largura do original
   espanhol (o jogo recorta a imagem com uma máscara do tamanho do texto espanhol).
 - 本院 do hospital agora é sempre **«Prédio Principal»** nos nomes de local.
 - Explicação dos **andares do elevador** (veja «O que ficou de fora»).
-
-**Já tem a v1.0?** Só dois arquivos mudaram:
-`smt3hd_Data\StreamingAssets\PC\common_es` e `smt3hd_Data\StreamingAssets\PC\ui_tex_es`.
-Copiar o pacote inteiro por cima também funciona.
 
 ---
 
@@ -121,3 +128,4 @@ Encontrou algo? Abra uma issue com um print e a tela ou o lugar onde apareceu.
 *Shin Megami Tensei III Nocturne HD Remaster* © ATLUS © SEGA. Todos os direitos
 reservados. Projeto de fã, gratuito e sem fins lucrativos, sem vínculo com Atlus ou
 SEGA.
+
